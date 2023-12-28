@@ -1,0 +1,11 @@
+{
+  "name": "mern-dashboard",
+  "version": "1.0.0",
+  "description": "Creating a full stack MERN dashboard application with complete CRUD functionality such as authentication, pagination, sorting, filtering and more...!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gauri Deshpande",
+  "license": "ISC"
+}
